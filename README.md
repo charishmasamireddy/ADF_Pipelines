@@ -31,7 +31,7 @@ This project demonstrates a production-ready *Incremental Data Loading Pipeline*
 
 ## 🚀 How to Run
 1.  Clone this repository.
-2.  Deploy the ARM templates located in the ARM_Templates folder.
+2.  Deploy the ARM templates located in the ARM_Templates(Ingestion.json).
 3.  Set the pipeline parameter BackDate to null for normal incremental runs, or provide a date (YYYY-MM-DD) for a historical reload.
 
 ---
