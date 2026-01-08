@@ -1,4 +1,3 @@
-# ADF_Pipelines
 # 🚀 Azure Data Factory: Dynamic Incremental Data Pipeline
 
 ## 📖 Overview
