@@ -27,7 +27,8 @@ This project demonstrates a production-ready *Incremental Data Loading Pipeline*
         3.  *Update Watermark:* Overwrites cdc.json with the new timestamp for the next run.
 
 ## 📸 Screenshots
-(Insert a screenshot of your ADF Pipeline canvas here)
+<img width="1416" height="517" alt="Ingestion_pipeline" src="https://github.com/user-attachments/assets/6e3a49eb-c9ba-430c-b86b-219b693cf751" />
+
 
 ## 🚀 How to Run
 1.  Clone this repository.
